@@ -1,0 +1,5 @@
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes\bin\Debug\UsingAttributes.dll
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes\bin\Debug\UsingAttributes.pdb
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes\obj\Debug\UsingAttributes.csprojResolveAssemblyReference.cache
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes\obj\Debug\UsingAttributes.dll
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes\obj\Debug\UsingAttributes.pdb

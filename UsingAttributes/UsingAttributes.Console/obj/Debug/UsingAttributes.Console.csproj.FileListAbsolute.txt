@@ -1,0 +1,6 @@
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes.Console\bin\Debug\UsingAttributes.Console.exe.config
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes.Console\bin\Debug\UsingAttributes.Console.exe
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes.Console\bin\Debug\UsingAttributes.Console.pdb
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes.Console\obj\Debug\UsingAttributes.Console.csprojResolveAssemblyReference.cache
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes.Console\obj\Debug\UsingAttributes.Console.exe
+D:\hometasks\UsingAttributes\UsingAttributes\UsingAttributes.Console\obj\Debug\UsingAttributes.Console.pdb
